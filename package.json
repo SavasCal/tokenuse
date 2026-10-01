@@ -1,0 +1,11 @@
+{
+  "name": "tokenuse-cli",
+  "version": "0.1.0",
+  "description": "What your Claude Code usage would have cost at API prices, and what that money could have bought. ASCII art included.",
+  "bin": { "tokenuse": "./tokenuse.mjs" },
+  "files": ["tokenuse.mjs"],
+  "engines": { "node": ">=20.1" },
+  "license": "MIT",
+  "repository": "github:SavasCal/tokenuse",
+  "keywords": ["claude", "claude-code", "usage", "cost", "ccusage"]
+}
